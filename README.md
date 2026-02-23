@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AkhilGarg28/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -32,6 +33,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/AkhilGarg28/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
