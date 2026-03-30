@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0011-container-with-most-water) |
+| [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/AkhilGarg28/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AkhilGarg28/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -27,6 +28,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/AkhilGarg28/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AkhilGarg28/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
@@ -63,4 +65,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
