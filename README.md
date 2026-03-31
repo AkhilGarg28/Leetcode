@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
+| [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0867-transpose-matrix](https://github.com/AkhilGarg28/Leetcode/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/AkhilGarg28/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Two Pointers
@@ -56,6 +57,7 @@
 | [0141-linked-list-cycle](https://github.com/AkhilGarg28/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkhilGarg28/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Recursion
 |  |
 | ------- |
@@ -65,6 +67,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +81,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
