@@ -94,4 +94,8 @@
 |  |
 | ------- |
 | [1710-maximum-units-on-a-truck](https://github.com/AkhilGarg28/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/AkhilGarg28/Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
