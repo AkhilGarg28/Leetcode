@@ -23,6 +23,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkhilGarg28/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Greedy
@@ -62,6 +63,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkhilGarg28/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -100,8 +102,13 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AkhilGarg28/Leetcode/tree/master/0058-length-of-last-word) |
+| [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
 ## Binary Search
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
