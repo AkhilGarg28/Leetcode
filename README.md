@@ -42,6 +42,7 @@
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/AkhilGarg28/Leetcode/tree/master/0867-transpose-matrix) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AkhilGarg28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
 | ------- |
@@ -76,6 +77,7 @@
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AkhilGarg28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Math
 |  |
 | ------- |
@@ -104,6 +106,7 @@
 | ------- |
 | [0058-length-of-last-word](https://github.com/AkhilGarg28/Leetcode/tree/master/0058-length-of-last-word) |
 | [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/AkhilGarg28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
 |  |
 | ------- |
