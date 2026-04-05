@@ -6,6 +6,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AkhilGarg28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -20,6 +21,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/AkhilGarg28/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -84,6 +86,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -98,6 +101,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -106,6 +110,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0503-next-greater-element-ii) |
 ## Sorting
