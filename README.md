@@ -16,6 +16,7 @@
 | [0912-sort-an-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0912-sort-an-array) |
 | [1672-richest-customer-wealth](https://github.com/AkhilGarg28/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/AkhilGarg28/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
+| [3834-merge-adjacent-equal-elements](https://github.com/AkhilGarg28/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0867-transpose-matrix](https://github.com/AkhilGarg28/Leetcode/tree/master/0867-transpose-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkhilGarg28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3834-merge-adjacent-equal-elements](https://github.com/AkhilGarg28/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +93,7 @@
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkhilGarg28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3834-merge-adjacent-equal-elements](https://github.com/AkhilGarg28/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
 ## Math
 |  |
 | ------- |
