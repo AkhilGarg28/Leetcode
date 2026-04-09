@@ -87,12 +87,14 @@
 | [0002-add-two-numbers](https://github.com/AkhilGarg28/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/AkhilGarg28/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/AkhilGarg28/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AkhilGarg28/Leetcode/tree/master/0735-asteroid-collision) |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/AkhilGarg28/Leetcode/tree/master/0058-length-of-last-word) |
+| [0394-decode-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AkhilGarg28/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
