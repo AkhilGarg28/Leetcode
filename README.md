@@ -100,6 +100,7 @@
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AkhilGarg28/Leetcode/tree/master/0735-asteroid-collision) |
+| [1021-remove-outermost-parentheses](https://github.com/AkhilGarg28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkhilGarg28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3834-merge-adjacent-equal-elements](https://github.com/AkhilGarg28/Leetcode/tree/master/3834-merge-adjacent-equal-elements) |
@@ -137,6 +138,7 @@
 | [0394-decode-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/AkhilGarg28/Leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
+| [1021-remove-outermost-parentheses](https://github.com/AkhilGarg28/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AkhilGarg28/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Binary Search
