@@ -135,6 +135,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/AkhilGarg28/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/AkhilGarg28/Leetcode/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkhilGarg28/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
