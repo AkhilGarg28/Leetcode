@@ -75,6 +75,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkhilGarg28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/AkhilGarg28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/AkhilGarg28/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/AkhilGarg28/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -135,6 +136,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkhilGarg28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0038-count-and-say](https://github.com/AkhilGarg28/Leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/AkhilGarg28/Leetcode/tree/master/0058-length-of-last-word) |
 | [0394-decode-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0394-decode-string) |
@@ -152,6 +154,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AkhilGarg28/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkhilGarg28/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
