@@ -85,6 +85,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/AkhilGarg28/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
@@ -132,6 +133,7 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0912-sort-an-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/AkhilGarg28/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
 ## String
 |  |
@@ -189,6 +191,7 @@
 | [0226-invert-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -208,12 +211,14 @@
 | [0199-binary-tree-right-side-view](https://github.com/AkhilGarg28/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/AkhilGarg28/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AkhilGarg28/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -221,6 +226,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AkhilGarg28/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
