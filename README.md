@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0011-container-with-most-water) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/AkhilGarg28/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/AkhilGarg28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -231,4 +232,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/AkhilGarg28/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
