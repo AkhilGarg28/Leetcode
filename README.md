@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/AkhilGarg28/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/AkhilGarg28/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/AkhilGarg28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0219-contains-duplicate-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0046-permutations](https://github.com/AkhilGarg28/Leetcode/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/AkhilGarg28/Leetcode/tree/master/0051-n-queens) |
 ## Union-Find
 |  |
 | ------- |
@@ -249,4 +251,8 @@
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkhilGarg28/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/AkhilGarg28/Leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
