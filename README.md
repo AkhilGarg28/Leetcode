@@ -119,6 +119,7 @@
 | [0009-palindrome-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
+| [0836-rectangle-overlap](https://github.com/AkhilGarg28/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -255,4 +256,8 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/AkhilGarg28/Leetcode/tree/master/0051-n-queens) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AkhilGarg28/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
