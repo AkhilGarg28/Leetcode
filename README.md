@@ -124,6 +124,7 @@
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/AkhilGarg28/Leetcode/tree/master/0836-rectangle-overlap) |
+| [1137-n-th-tribonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -132,11 +133,13 @@
 | [0322-coin-change](https://github.com/AkhilGarg28/Leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0518-coin-change-ii) |
+| [1137-n-th-tribonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
