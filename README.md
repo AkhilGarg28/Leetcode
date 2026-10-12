@@ -100,6 +100,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/AkhilGarg28/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0234-palindrome-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0009-palindrome-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/AkhilGarg28/Leetcode/tree/master/0836-rectangle-overlap) |
 ## Dynamic Programming
 |  |
@@ -128,11 +130,13 @@
 | [0042-trapping-rain-water](https://github.com/AkhilGarg28/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/AkhilGarg28/Leetcode/tree/master/0322-coin-change) |
+| [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0518-coin-change-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
 | ------- |
