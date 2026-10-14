@@ -208,6 +208,7 @@
 | [0226-invert-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/AkhilGarg28/Leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/AkhilGarg28/Leetcode/tree/master/0684-redundant-connection) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkhilGarg28/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Doubly-Linked List
@@ -237,6 +238,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/AkhilGarg28/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/AkhilGarg28/Leetcode/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/AkhilGarg28/Leetcode/tree/master/0684-redundant-connection) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkhilGarg28/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -259,10 +261,12 @@
 ## Union-Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/AkhilGarg28/Leetcode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkhilGarg28/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/AkhilGarg28/Leetcode/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AkhilGarg28/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Algorithm X
 |  |
