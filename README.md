@@ -11,6 +11,7 @@
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AkhilGarg28/Leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/AkhilGarg28/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0136-single-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0322-coin-change](https://github.com/AkhilGarg28/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -286,4 +287,8 @@
 | ------- |
 | [0322-coin-change](https://github.com/AkhilGarg28/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0518-coin-change-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
