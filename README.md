@@ -13,6 +13,7 @@
 | [0073-set-matrix-zeroes](https://github.com/AkhilGarg28/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0136-single-number) |
 | [0219-contains-duplicate-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/AkhilGarg28/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0498-diagonal-traverse](https://github.com/AkhilGarg28/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -90,6 +91,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/AkhilGarg28/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/AkhilGarg28/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/AkhilGarg28/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AkhilGarg28/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/AkhilGarg28/Leetcode/tree/master/0567-permutation-in-string) |
@@ -123,6 +125,7 @@
 | [0009-palindrome-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/AkhilGarg28/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/AkhilGarg28/Leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/AkhilGarg28/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1137-n-th-tribonacci-number](https://github.com/AkhilGarg28/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -150,6 +153,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/AkhilGarg28/Leetcode/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/AkhilGarg28/Leetcode/tree/master/1710-maximum-units-on-a-truck) |
@@ -170,6 +174,7 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0268-missing-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AkhilGarg28/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -291,4 +296,5 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/AkhilGarg28/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
